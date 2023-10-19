@@ -1,0 +1,18 @@
+MovimentaÃ§Ãµes na Conta
+Nome: Victor
+
+
+
+Data da Transação: 2023-07-28
+Tipo de Transação: Depósito
+Valor: 1000.0
+===================================
+Valor disponível: 1000.0
+===================================
+
+Data da Transação: 2023-07-28
+Tipo de Transação: Saque
+Valor: 400.0
+===================================
+Valor disponível: 600.0
+===================================

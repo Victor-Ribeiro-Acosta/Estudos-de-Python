@@ -1,0 +1,40 @@
+MovimentaÃ§Ãµes na Conta
+Nome: Victor Acosta
+
+
+
+Data da Transação: 2023-07-28
+Valor depositado: 2000.0
+Desconto INSS: 200.0
+Taxa de Conta: 10
+Total: 1790.0
+===================================
+Total na conta: 1790.0
+===================================
+
+Data da Transação: 2023-07-28
+Valor depositado: 2000.0
+Desconto INSS: 200.0
+Taxa de Conta: 10
+Total: 1790.0
+===================================
+Total na conta: 3580.0
+===================================
+
+Data da Transação: 2023-07-28
+Valor depositado: 2000.0
+Desconto INSS: 200.0
+Taxa de Conta: 10
+Total: 1790.0
+===================================
+Total na conta: 5370.0
+===================================
+
+Data da Transação: 2023-07-28
+Valor depositado: 3000.0
+Desconto INSS: 300.0
+Taxa de Conta: 10
+Total: 2690.0
+===================================
+Total na conta: 8060.0
+===================================

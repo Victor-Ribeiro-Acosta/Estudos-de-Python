@@ -1,0 +1,31 @@
+MovimentaÃ§Ãµes na Conta
+Nome: Jandira Carvalho
+
+
+
+Data da Transação: 2023-07-28
+Valor depositado: 4000.0
+Desconto INSS: 400.0
+Taxa de Conta: 10
+Total: 3590.0
+===================================
+Total na conta: 3590.0
+===================================
+
+Data da Transação: 2023-07-28
+Valor depositado: 4000.0
+Desconto INSS: 400.0
+Taxa de Conta: 10
+Total: 3590.0
+===================================
+Total na conta: 7180.0
+===================================
+
+Data da Transação: 2023-07-28
+Valor depositado: 0.0
+Desconto INSS: 0.0
+Taxa de Conta: 10
+Total: -10.0
+===================================
+Total na conta: 7170.0
+===================================
